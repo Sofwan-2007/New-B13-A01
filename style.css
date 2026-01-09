@@ -56,3 +56,77 @@ text-decoration: none;
 
 
 
+#hero{
+background: url(img/hero-bg.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+padding: 100px;
+}
+.hero-contant{
+    margin: a;
+}
+.hero-1{
+margin: auto;
+width: 229px;
+height: 35px;
+border-radius: 1000px;
+background: #ffffff;
+padding: 8px 12px;
+}
+
+.hero-contant h1{
+font-family: "Inter", sans-serif ;
+font-style: Bold;
+font-size: 72px;
+font-weight: 700;
+line-height: 84px;
+text-align: center;
+text-transform: uppercase;
+color: white;
+padding: 20px;
+}
+
+.hero-contant h1 span{
+    color: rgba(48, 184, 104, 1);
+}
+.hero-contant p{
+    text-align: center;
+    color: rgb(255, 255, 255, 1);
+    font-family: "Inter", sans-serif ;
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+padding-bottom: 20px;
+
+}
+.hero-button{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 16px;
+padding: 12px 16px;
+}
+.hero-contant button{
+color: rgba(255, 255, 255, 1);
+font-style: Bold;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+
+}
+.hero-button-1{
+color: rgba(255, 255, 255, 1);
+font-style: Bold;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px; 
+background: none;
+padding: 12px 16px;
+border: 1px solid white;
+}
+
+
+
+
+
