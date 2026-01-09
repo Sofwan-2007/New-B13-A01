@@ -247,13 +247,17 @@ font-size: 16px;
 }
 
 
+/* #Early-Access{
+    margin-bottom: 100px;
+} */
 .Early-Access-container{
     max-width: 1600px;
-    margin: auto;
+    margin: 100px auto;
     text-align: center;
     border-radius: 12px;
     background-color:rgba(247, 246, 242, 1) ;
     padding: 80px 40px;
+    
 }
 .Early-Access-container h1{
     font-size: 40px;
