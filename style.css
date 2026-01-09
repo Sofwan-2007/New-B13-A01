@@ -151,3 +151,139 @@ font-size: 16px;
 margin-bottom: 50px;
 }
 
+.cards {
+display: flex;
+justify-content: space-between;
+gap: 24px;
+}
+
+.card {
+background: white;
+border: 1px solid #dfe7ef;
+border-radius: 12px;
+padding: 32px 20px;
+text-align: center;
+}
+.card .img{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    border-radius: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8px auto;
+}
+.card .img img{
+    width: 32px;
+    height: 32px;
+}
+.card h3 {
+font-size: 24px;
+font-weight: 600;
+color: #0e2d4c;
+margin-bottom: 12px;
+}
+
+.card p {
+color: #5b6c7f;
+font-size: 16px;
+}
+.fa-solid {
+    color: rgb(48, 184, 104, 1);
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+#Second-Brain{
+    max-width: 1350px;
+    margin: 100px auto 100px auto;
+}
+.Second-Brain-container{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 60px;
+}
+.Second-Brain-content #text-1{
+font-size: 16px;
+font-weight: 500;
+text-transform: uppercase;
+color: rgba(70, 145, 101, 1);
+
+}
+.Second-Brain-content h1{
+    color:rgba(0, 25, 49, 1) ;
+    font-size: 48px;
+    font-weight: 700;
+    text-transform: capitalize;
+    padding: 16px 0;
+}
+.Second-Brain-content #text-2{
+font-size: 16px;
+font-weight: 400;
+color: rgba(98, 115, 130, 1);
+padding-bottom: 40px;
+}
+.text-3{
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 16px;
+}
+
+
+
+
+.Early-Access-container{
+    max-width: 1350px;
+    margin: auto;
+    text-align: center;
+    border-radius: 12px;
+    background-color:rgba(247, 246, 242, 1) ;
+    padding: 80px 40px;
+}
+.Early-Access-container h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.Early-Access-container p{
+    font-size: 16px;
+    font-weight: 400;
+    padding: 24px 0;
+}
+
+
+
+
+
+
+footer{
+    background-color: rgba(0, 25, 49, 1);
+    padding: 120px 120px 30px 120px;
+    color: #ffffff;
+    text-align: center;
+
+}
+.footer-div1{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom:80px ;
+    
+}
+.footer-div2 p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+.my-btn i{
+    color: #ffffff;
+}
+.hero-button-1 i{
+    color: #ffffffa1;
+}
