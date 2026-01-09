@@ -130,3 +130,24 @@ border: 1px solid white;
 
 
 
+.not-section {
+text-align: center;
+padding: 44px 0;
+font-family: "Inter", sans-serif;
+max-width: 1350px;
+margin: auto;
+}
+
+.not-section h1 {
+font-size: 48px;
+font-weight: 700;
+color: #0e2d4c;
+margin-bottom: 12px;
+}
+
+.not-section .subtitle {
+color: #5b6c7f;
+font-size: 16px;
+margin-bottom: 50px;
+}
+
